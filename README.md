@@ -48,4 +48,4 @@ To learn more about Next.js, take a look at the following resources:
 
   
 
-This application has been hosted on  [google firebase](https://firebase.google.com/). This can be found [here] (https://ninjalistusingtsandtailwind.web.app/)
+This application has been hosted on  [google firebase](https://firebase.google.com/). This can be found [here](https://ninjalistusingtsandtailwind.web.app/)
